@@ -20,6 +20,12 @@ transition: fade-out
 ---
 
 ---
+title: Where from
+src: ./pages/x-where-from.md
+class: text-left
+---
+
+---
 title: Wasm
 src: ./pages/3-logotype.md
 ---
