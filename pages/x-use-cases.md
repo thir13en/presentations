@@ -18,7 +18,7 @@
 </div>
 <div class="flex-center">
 <img src="assets/ffmpeg.svg" width=100 alt="Figma" style="margin-right: 5px">
-	<h5><a href="https://github.com/ffmpegwasm/ffmpeg.wasm">Video processing </a></h5>
+	<h5><a href="https://github.com/ffmpegwasm/ffmpeg.wasm">ffmpeg - Video processing </a></h5>
 </div>
 <div class="flex-center">
 <img src="assets/autocad.webp" width=50 alt="Figma" style="margin-right: 5px">
