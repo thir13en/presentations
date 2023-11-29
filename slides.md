@@ -31,6 +31,11 @@ src: ./pages/3-logotype.md
 ---
 
 ---
+title: But
+src: ./pages/x-but.md
+---
+
+---
 title: Intro
 transition: fade out
 src: ./pages/4-introduction-to-wasm.md
@@ -49,6 +54,21 @@ src: ./pages/6-support.md
 ---
 title: Examples
 src: ./pages/x-examples.md
+---
+
+---
+title: How to
+src: ./pages/x-how-can-use.md
+---
+
+---
+title: Outside browser
+src: ./pages/x-outside-browser.md
+---
+
+---
+title: Outside browser
+src: ./pages/x-ecosystem.md
 ---
 
 ---
@@ -383,11 +403,6 @@ database "MySql" {
 </div>
 
 [Learn More](https://sli.dev/guide/syntax.html#diagrams)
-
----
-src: ./pages/multiple-entries.md
-hide: false
----
 
 ---
 layout: center

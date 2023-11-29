@@ -6,3 +6,7 @@
 </div>
 
 <img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />
+
+<!-- 3d rendering -->
+<!-- music production -->
+<!-- honorable mentions: portability flexibility. The web stops being a JS only runtime -->
