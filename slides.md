@@ -47,6 +47,11 @@ src: ./pages/6-support.md
 ---
 
 ---
+title: Examples
+src: ./pages/x-examples.md
+---
+
+---
 title: Final
 src: ./pages/x-final.md
 ---
