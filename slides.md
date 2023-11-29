@@ -41,6 +41,18 @@ src: ./pages/6-support.md
 ---
 
 ---
+title: How it works
+src: ./pages/x-how-it-works.md
+---
+
+---
+title: Use cases
+src: ./pages/x-use-cases.md
+---
+
+
+
+---
 transition: slide-up
 level: 2
 ---
@@ -204,7 +216,7 @@ Animations are powered by [@vueuse/motion](https://motion.vueuse.org/).
       v-motion
       :initial="{ x: 800, y: -100, scale: 1.5, rotate: -50 }"
       :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
+      class="absolute top-0 left-0 xright-0 bottom-0"
       src="https://sli.dev/logo-square.png"
       alt=""
     />
