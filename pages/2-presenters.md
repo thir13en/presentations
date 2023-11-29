@@ -12,6 +12,8 @@
     }
 </style>
 
+<img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px;">
+
 <section class="presenters">
 	<div class="half">
 	    <img src="assets/coll.jpg" width=222 alt="Dani">

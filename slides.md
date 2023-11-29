@@ -20,9 +20,14 @@ transition: fade-out
 ---
 
 ---
+title: Wasm
+src: ./pages/3-logotype.md
+---
+
+---
 title: Intro
 transition: fade out
-src: ./pages/3-introduction-to-wasm.md
+src: ./pages/4-introduction-to-wasm.md
 ---
 
 <!--
