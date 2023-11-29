@@ -51,9 +51,16 @@ title: Support
 src: ./pages/6-support.md
 ---
 
+
 ---
 title: How it works
 src: ./pages/x-how-it-works.md
+---
+
+
+---
+title: Compilation
+src: ./pages/x-compilation.md
 ---
 
 ---
@@ -61,6 +68,10 @@ title: Use cases
 src: ./pages/x-use-cases.md
 ---
 
+---
+title: Conclusion
+src: ./pages/x-conclusion.md
+---
 
 
 ---
