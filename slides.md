@@ -30,26 +30,15 @@ transition: fade out
 src: ./pages/4-introduction-to-wasm.md
 ---
 
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
-
-<!--
-Here is another comment.
--->
-
 ---
-layout: default
+title: Performance
+src: ./pages/5-performance.md
 ---
 
-# Table of contents
-
-```html
-<Toc minDepth="1" maxDepth="1"></Toc>
-```
-
-<Toc maxDepth="1"></Toc>
+---
+title: Support
+src: ./pages/6-support.md
+---
 
 ---
 transition: slide-up
