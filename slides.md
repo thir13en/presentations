@@ -41,6 +41,11 @@ src: ./pages/6-support.md
 ---
 
 ---
+title: Final
+src: ./pages/x-final.md
+---
+
+---
 transition: slide-up
 level: 2
 ---
