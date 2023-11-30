@@ -51,6 +51,20 @@ title: Support
 src: ./pages/6-support.md
 ---
 
+---
+title: How to
+src: ./pages/x-how-can-use.md
+---
+
+---
+title: Outside browser
+src: ./pages/x-outside-browser.md
+---
+
+---
+title: Ecosystem
+src: ./pages/x-ecosystem.md
+---
 
 ---
 title: How it works
@@ -73,27 +87,6 @@ title: Conclusion
 src: ./pages/x-conclusion.md
 ---
 
-
----
-title: Examples
-src: ./pages/x-examples.md
----
-
----
-title: How to
-src: ./pages/x-how-can-use.md
----
-
----
-title: Outside browser
-src: ./pages/x-outside-browser.md
----
-
----
-title: Outside browser
-src: ./pages/x-ecosystem.md
----
-
 ---
 title: Thanks
 src: ./pages/x-thanks.md
@@ -102,9 +95,4 @@ src: ./pages/x-thanks.md
 ---
 title: Final
 src: ./pages/x-final.md
----
-
----
-transition: slide-up
-level: 2
 ---
