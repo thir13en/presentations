@@ -95,6 +95,11 @@ src: ./pages/x-ecosystem.md
 ---
 
 ---
+title: Thanks
+src: ./pages/x-thanks.md
+---
+
+---
 title: Final
 src: ./pages/x-final.md
 ---

@@ -8,5 +8,7 @@ WASI provides a standardized way for WebAssembly modules to interact with the un
 
 <img v-click src="assets/wasi-bullish.png" alt="wasi-bull" width=400 style="position: absolute; right: 0" />
 
+<img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />
+
 <!-- WASI can be the future of serverless due to it's tremendous speed advantages for initialization, execution and versatility -->
 

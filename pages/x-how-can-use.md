@@ -13,6 +13,7 @@ There are pre-compiled interpreters available, they allow you to use JIT to virt
 
 As a sample, here's a [python runtime environment project](https://pyscript.net/)
 
+<img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />
 
 <!-- interoperability is also one of the biggest strenghts of wasm, who has a good shot of being all that Java always wanted to be, through inclusion -->
 
