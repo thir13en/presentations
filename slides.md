@@ -52,6 +52,18 @@ src: ./pages/6-support.md
 ---
 
 ---
+title: How it works
+src: ./pages/x-how-it-works.md
+---
+
+---
+title: Use cases
+src: ./pages/x-use-cases.md
+---
+
+
+
+---
 title: Examples
 src: ./pages/x-examples.md
 ---
