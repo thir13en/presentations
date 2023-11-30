@@ -67,19 +67,18 @@ src: ./pages/11-ecosystem.md
 ---
 
 ---
+title: Use cases
+src: ./pages/14-use-cases.md
+---
+
+---
 title: How it works
 src: ./pages/12-how-it-works.md
 ---
 
-
 ---
 title: Compilation
 src: ./pages/13-compilation.md
----
-
----
-title: Use cases
-src: ./pages/14-use-cases.md
 ---
 
 ---
