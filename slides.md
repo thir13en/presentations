@@ -72,6 +72,11 @@ src: ./pages/14-use-cases.md
 ---
 
 ---
+title: Chess
+src: ./pages/18-chess.md
+---
+
+---
 title: How it works
 src: ./pages/12-how-it-works.md
 ---
