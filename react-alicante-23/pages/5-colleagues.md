@@ -1,8 +1,11 @@
-<section style="display: flex; gap: 1em; align-items: flex-start; flex-wrap: wrap; justify-content: space-between;">
+<h1>Togetherness</h1>
+<section style="margin-top: 3.5em; display: flex; gap: 1em; align-items: flex-start; flex-wrap: wrap; justify-content: space-between;">
     <img src="assets/c1.jpg" width=222>
     <img src="assets/c2.jpg" width=222>
     <img src="assets/c3.jpg" width=55 class="fade-out">
     <img src="assets/c4.jpg" width=111>
+</section>
+<section style="display: flex; gap: 1em; align-items: flex-start; flex-wrap: wrap; justify-content: center;">
     <img src="assets/c5.jpg" width=222>
 </section>
 

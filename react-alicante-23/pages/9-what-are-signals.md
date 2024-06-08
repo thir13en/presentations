@@ -11,3 +11,5 @@
 	<p><a href="https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf">Code examples</a></p>
 	<p><a href="https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob">Historical background and motivations</a></p>
 </section>
+
+<img src="assets/dt-logo.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />

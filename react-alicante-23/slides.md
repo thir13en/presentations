@@ -44,6 +44,12 @@ class: text-left
 ---
 
 ---
+title: Insights
+src: ./pages/5-1-insights.md
+class: text-left
+---
+
+---
 title: RxJS
 src: ./pages/6-trends.md
 class: text-left
@@ -56,6 +62,12 @@ class: text-left
 ---
 
 ---
+title: Dead
+src: ./pages/7-1-dead.md
+class: text-left
+---
+
+---
 title: Signals
 src: ./pages/8-signals.md
 class: text-left
@@ -64,5 +76,35 @@ class: text-left
 ---
 title: What are Signals?
 src: ./pages/9-what-are-signals.md
+class: text-left
+---
+
+---
+title: Rendering
+src: ./pages/10-rendering.md
+class: text-left
+---
+
+---
+title: SCR
+src: ./pages/11-client-side-rendering.md
+class: text-left
+---
+
+---
+title: SSRH
+src: ./pages/12-ssr-hidration.md
+class: text-left
+---
+
+---
+title: SSRI
+src: ./pages/13-ssr-islands.md
+class: text-left
+---
+
+---
+title: SSRR
+src: ./pages/14-ssr-resumability.md
 class: text-left
 ---
