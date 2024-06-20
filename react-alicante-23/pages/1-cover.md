@@ -1,6 +1,10 @@
 # React Alicante 23
 
-a.k.a Solid Alicante
+Welcome to React Alicante, also known as Solid Alicante.
+
+### Topics Covered
+1. Signals
+1. SSR Strategies Overview 
 
 
 <div class="abs-br m-6 flex gap-2">
