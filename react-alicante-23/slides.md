@@ -58,15 +58,8 @@ transition: slide-left
 ---
 
 ---
-title: The Economics of React
-src: ./pages/7-money.md
-class: text-left
-transition: slide-left
----
-
----
 title: Is React Dead?
-src: ./pages/7-1-dead.md
+src: ./pages/7-dead.md
 class: text-left
 transition: slide-left
 ---
