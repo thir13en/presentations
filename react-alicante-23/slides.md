@@ -79,8 +79,36 @@ transition: slide-left
 ---
 
 ---
+title: Signals Design Principles
+src: ./pages/8-2-signals-principles.md
+class: text-left
+transition: slide-left
+---
+
+---
 title: What are Signals?
 src: ./pages/9-what-are-signals.md
+class: text-left
+transition: slide-left
+---
+
+---
+title: Simple Signal
+src: ./pages/9-1-simple-signal.md
+class: text-left
+transition: slide-left
+---
+
+---
+title: Reactions
+src: ./pages/9-2-reactions.md
+class: text-left
+transition: slide-left
+---
+
+---
+title: Derivations
+src: ./pages/9-3-derivations.md
 class: text-left
 transition: slide-left
 ---
