@@ -26,21 +26,21 @@ transition: fade-out
 title: Setting the Context
 src: ./pages/3-context.md
 class: text-left
-transition: fade-out
+transition: slide-left
 ---
 
 ---
-title: React Through the Ages
+title: Trend Age
 src: ./pages/4-age.md
 class: text-left
 transition: slide-left
 ---
 
 ---
-title: Collaborating with Colleagues
+title: Togetherness
 src: ./pages/5-colleagues.md
 class: text-left
-transition: slide-left
+transition: fade-out
 ---
 
 ---
@@ -58,15 +58,22 @@ transition: slide-left
 ---
 
 ---
-title: Is React Dead?
+title: Dead?
 src: ./pages/7-dead.md
 class: text-left
-transition: slide-left
+transition: fade-out
 ---
 
 ---
 title: Exploring Signals
 src: ./pages/8-signals.md
+class: text-left
+transition: slide-left
+---
+
+---
+title: Signals Through the Ages
+src: ./pages/8-1-signals-history.md
 class: text-left
 transition: slide-left
 ---
