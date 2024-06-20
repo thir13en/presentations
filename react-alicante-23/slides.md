@@ -33,89 +33,89 @@ transition: fade-out
 title: React Through the Ages
 src: ./pages/4-age.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Collaborating with Colleagues
 src: ./pages/5-colleagues.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Key Insights from the Field
 src: ./pages/5-1-insights.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Understanding RxJS
 src: ./pages/6-trends.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: The Economics of React
 src: ./pages/7-money.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Is React Dead?
 src: ./pages/7-1-dead.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Exploring Signals
 src: ./pages/8-signals.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: What are Signals?
 src: ./pages/9-what-are-signals.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Rendering Techniques
 src: ./pages/10-rendering.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Client-Side Rendering (CSR)
 src: ./pages/11-client-side-rendering.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Server-Side Rendering & Hydration (SSRH)
 src: ./pages/12-ssr-hydration.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Islands Architecture in SSR (SSRI)
 src: ./pages/13-ssr-islands.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 title: Resumability in SSR (SSRR)
 src: ./pages/14-ssr-resumability.md
 class: text-left
-transition: slide-right
+transition: slide-left
 ---
